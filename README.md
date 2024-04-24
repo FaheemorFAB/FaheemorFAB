@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaheemorFAB
+# 👋 Hi, I’m @FaheemorFAB
 - 👀 I’m interested in ...Problem solving
 - 🌱 I’m currently learning ...C/C++
 
