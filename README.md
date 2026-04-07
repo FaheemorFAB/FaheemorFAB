@@ -1,13 +1,8 @@
 <div align="center">
 
-# Faheem · Full-Stack Builder
-
-*From frontend pixels → backend logic → data intelligence*
-
+# Hey, I'm a full-stack developer who enjoys building scalable and intelligent systems.
 [![Holopin Badges](https://holopin.me/faheemorfab)](https://holopin.io/@faheemorfab)
-
 </div>
-
 ---
 
 ## About Me
