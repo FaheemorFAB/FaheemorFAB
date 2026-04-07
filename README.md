@@ -86,5 +86,5 @@ Full-Stack  →  Backend APIs  →  ML & Automation
 
 
 <div align="center">
-  <sub>Building systems that don't just run — but think, analyze, and optimize.</sub>
+  <sub>Building systems that don't just run but think, analyze, and optimize.</sub>
 </div>
