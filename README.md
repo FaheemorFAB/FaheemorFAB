@@ -84,39 +84,6 @@ Full-Stack  →  Backend APIs  →  ML & Automation
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=FaheemorFAB&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=FaheemorFAB&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaheemorFAB&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=FaheemorFAB&theme=flat&no-frame=true&margin-w=8&column=7)
-
-</div>
-
----
-
-## Top Contributions
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=FaheemorFAB&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 <div align="center">
   <sub>Building systems that don't just run — but think, analyze, and optimize.</sub>
