@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm a full-stack developer who enjoys building scalable and intelligent systems.
+# Hi 👋, I'm Faheem
 [![Holopin Badges](https://holopin.me/faheemorfab)](https://holopin.io/@faheemorfab)
 </div>
 ---
